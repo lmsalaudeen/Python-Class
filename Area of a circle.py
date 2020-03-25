@@ -4,7 +4,6 @@ radius = int(input('radius: '))
 
 import math
 Area = math.pi * radius ** 2
-print(f'The Area of the circle is: {Area}')
-
+print(f'The Area of the circle with radius {radius} is: {Area}')
 
 
